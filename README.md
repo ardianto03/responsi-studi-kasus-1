@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Ardianto R  
+NIU : 463594  
+Sesi : 1  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
